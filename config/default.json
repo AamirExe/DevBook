@@ -1,0 +1,6 @@
+{
+    "mongoUri":"mongodb+srv://Aamir123:Aamir123@touchin.8axq1.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken":"myToken",
+    "gitHubClientId" : "74f0b090317b38315a1e",
+    "gitHubSecret":"24456cca96b79e4be012e6ef05ac665991245b3a"
+}
